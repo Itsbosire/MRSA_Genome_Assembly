@@ -1,0 +1,24 @@
+#Tools required for this NGS Pipeline Analysis
+
+# Quality Control Tools
+There are multiple tools that can handle quality Control of raw reeds
+
+-FastQC : Provides a quality assessment report of the raq sequences. Checks base quality scores, adapter contamination, GC content and other metrics.
+-MultiQC : Aggregates the reports from various tools i.e quast, fastqc into a single comprehensive report for easy comparison.
+
+# Trimming/ Contamination removal tools
+-FastP : a widely used and versatile bioinformatic Trimming tool used to trim low quality regions from the raw reeds before proceeding for downstream analysis.
+-Trimmomtric : a trimming tool that removes or trims off low /poor regions from reeds produced via Illumina.
+
+# Read assembling tools
+-Shovill :Shovill is a genome assembler pipeline dedicated to bacteria and microbes with smaller genome sizes.
+- The pipeline uses SPAdes assembler at its core but also supports other assemblers such as SKESA, Velvet and Megahit.
+- Shovill is used to assemble isolates but not metagenomes or organisms with larger genomes.
+
+# De Novo graph plotting
+-Bandage : Bandage is a program for visualising de novo assembly graphs.
+. It allows users to interact with the assembly graphs made by de novo assemblers such as Velvet, SPAdes and others.
+- Website: https://rrwick.github.io/Bandage/
+
+# Assembly Inspection
+-QUAST : Quality Assessment Tool for Genome Assemblies is often used to inspect the quality of the assembled genomes.
