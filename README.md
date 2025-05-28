@@ -1,4 +1,4 @@
-# Genome Assembly of a bacterial genome (MRSA)
+# Genome Assembly of  bacterial genome (MRSA)
 
 # Summary of MRSA (Methicillin-Resistant Staphylococcus aureus)
 Staphylococcus aureus is a Gram-positive, facultative anaerobic bacterium commonly found on human skin and mucous membranes. It is a major cause of hospital- and community-acquired infections. MRSA refers specifically to strains of S. aureus that have acquired resistance to methicillin and other beta-lactam antibiotics, making treatment challenging.
