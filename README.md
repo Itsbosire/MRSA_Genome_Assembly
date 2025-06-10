@@ -39,7 +39,6 @@ Install the required softwares. You can manage dependancies using package manage
     ├──Assembly Inspection # contains quast reports 
     ├── requirements.txt # list of all the tools utilized in this project 
     ├──Results # contains all the results of the pipeline
-    ├── README.md 
-    ```
+    ├── README.md ```
 
 
